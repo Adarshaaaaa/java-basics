@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\PMIS_TNS_JDK17_2023_JAVA\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+431403449.index
+996700402.index
